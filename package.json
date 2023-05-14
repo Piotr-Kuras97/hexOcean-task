@@ -1,7 +1,7 @@
 {
   "name": "add-dish-task",
   "version": "0.1.0",
-  "homepage": "https://piotr-kuras97.github.io/add-dish-task",
+  "homepage": "https://piotr-kuras97.github.io/hexOcean-task",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.6.1",
