@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hexOcean-task/static/css/main.08129d5d.css",
+    "main.js": "/hexOcean-task/static/js/main.8e83b450.js",
+    "static/media/bg.jpg": "/hexOcean-task/static/media/bg.3dbb454512f54140a6c8.jpg",
+    "static/media/open-sans-all-400-normal.woff": "/hexOcean-task/static/media/open-sans-all-400-normal.cb2542fccedadc68d737.woff",
+    "static/media/roboto-mono-all-400-normal.woff": "/hexOcean-task/static/media/roboto-mono-all-400-normal.615f3bbd43698e99d078.woff",
+    "static/media/open-sans-cyrillic-ext-400-normal.woff2": "/hexOcean-task/static/media/open-sans-cyrillic-ext-400-normal.01b11c560bc52c756c23.woff2",
+    "static/media/open-sans-latin-400-normal.woff2": "/hexOcean-task/static/media/open-sans-latin-400-normal.a1535f451fb7bb98f526.woff2",
+    "static/media/roboto-mono-cyrillic-ext-400-normal.woff2": "/hexOcean-task/static/media/roboto-mono-cyrillic-ext-400-normal.13c026e0294440303c69.woff2",
+    "static/media/open-sans-latin-ext-400-normal.woff2": "/hexOcean-task/static/media/open-sans-latin-ext-400-normal.ccfa20f8de7f73249c39.woff2",
+    "static/media/roboto-mono-latin-400-normal.woff2": "/hexOcean-task/static/media/roboto-mono-latin-400-normal.d3026ee29728abffa752.woff2",
+    "static/media/open-sans-cyrillic-400-normal.woff2": "/hexOcean-task/static/media/open-sans-cyrillic-400-normal.5a546777799f438b6bb4.woff2",
+    "static/media/open-sans-greek-400-normal.woff2": "/hexOcean-task/static/media/open-sans-greek-400-normal.3064bf7e87155fcb14a1.woff2",
+    "static/media/roboto-mono-latin-ext-400-normal.woff2": "/hexOcean-task/static/media/roboto-mono-latin-ext-400-normal.22aea4e27b4b7405853a.woff2",
+    "static/media/open-sans-hebrew-400-normal.woff2": "/hexOcean-task/static/media/open-sans-hebrew-400-normal.daafcec89c2332b84c25.woff2",
+    "static/media/open-sans-vietnamese-400-normal.woff2": "/hexOcean-task/static/media/open-sans-vietnamese-400-normal.473f6b09ca8f5658857e.woff2",
+    "static/media/roboto-mono-cyrillic-400-normal.woff2": "/hexOcean-task/static/media/roboto-mono-cyrillic-400-normal.a0d40ee5847af8bed2df.woff2",
+    "static/media/roboto-mono-greek-400-normal.woff2": "/hexOcean-task/static/media/roboto-mono-greek-400-normal.95e7a382e12921ef32ee.woff2",
+    "static/media/roboto-mono-vietnamese-400-normal.woff2": "/hexOcean-task/static/media/roboto-mono-vietnamese-400-normal.a9575edb558363648d81.woff2",
+    "static/media/open-sans-greek-ext-400-normal.woff2": "/hexOcean-task/static/media/open-sans-greek-ext-400-normal.1ed998a42083750e175e.woff2",
+    "index.html": "/hexOcean-task/index.html",
+    "main.08129d5d.css.map": "/hexOcean-task/static/css/main.08129d5d.css.map",
+    "main.8e83b450.js.map": "/hexOcean-task/static/js/main.8e83b450.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08129d5d.css",
+    "static/js/main.8e83b450.js"
+  ]
+}
