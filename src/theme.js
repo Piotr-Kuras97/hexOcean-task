@@ -1,7 +1,7 @@
-import { extendTheme } from "@chakra-ui/react";
+import { extendTheme } from '@chakra-ui/react';
 
-import "@fontsource/roboto-mono";
-import "@fontsource/open-sans";
+import '@fontsource/roboto-mono';
+import '@fontsource/open-sans';
 
 const theme = extendTheme({
     fonts: {
