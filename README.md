@@ -1,5 +1,9 @@
 # HexOcean Task
 
+## Live Demo:
+
+The demo is available at: https://piotr-kuras97.github.io/hexOcean-task/ 
+
 ## Instalation:
 
 1. Clone Git repository https://github.com/Piotr-Kuras97/hexOcean-task.git
