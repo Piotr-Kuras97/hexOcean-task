@@ -14,6 +14,8 @@ The demo is available at: https://piotr-kuras97.github.io/hexOcean-task/
 
 When developing the project, I tried to use libraries about which my knowledge was at a basic level. I decided to use them mainly to learn new tools.
 
+- Node v18.15.0
+- NPM v9.5.0
 - React (create-react-app)
 - Chakra UI
 - Formik
